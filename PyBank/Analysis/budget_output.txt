@@ -1,0 +1,7 @@
+"Financial Analysis"
+-----------------------
+1 Total_months 86
+2 Total 38382578
+3 "Average Change" "($ -2315.12 )"
+4 "Greatest increase in profits" "Feb-12 : ($ 1926159 )"
+5 "Greatest decrease in profits" "Sep-13 : ($-2196167 )"
